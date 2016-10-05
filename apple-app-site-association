@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "io.github.genna",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
