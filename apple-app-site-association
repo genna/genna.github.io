@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "io.github.genna",
+                "appID": "io.gkr.genna",
                 "paths": [ "*" ]
             }
         ]
